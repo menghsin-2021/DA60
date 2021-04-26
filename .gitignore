@@ -2,6 +2,7 @@
 class_example/
 notes/
 .ipynb_checkpoints/
+homework_ans/
 
 
 *.csv
