@@ -5,7 +5,7 @@ notes/
 homework_ans/
 
 
-*.csv
+# *.csv
 # *.xlsx
 *.html
 *.json
