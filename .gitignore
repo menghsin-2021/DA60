@@ -6,7 +6,7 @@ homework_ans/
 
 
 *.csv
-*.xlsx
+# *.xlsx
 *.html
 *.json
 
